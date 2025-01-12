@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Akira Saskara Hartono**.<br>
 
-Saya seorang **Curriculum Developer** di [SMK TELKOM MALANG:https://www.smktelkom-mlg.sch.id/).<br>
+Saya seorang **Siswa** di [SMK TELKOM MALANG:https://www.smktelkom-mlg.sch.id/).<br>
 
 Saya bertanggung jawab Menjadi siswa Moklet [Siswa Moklet](https://www.smktelkom-mlg.sch.id/).<br>
 
