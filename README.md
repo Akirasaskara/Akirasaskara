@@ -1,5 +1,5 @@
-# Halo semuanya! 
+# 💫 About Me:
+I'm Currently Student at SMK Telkom Malang
 
-Perkenalkan nama saya **Akira Saskara Hartono**.<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akirasaskara&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-Saya seorang **Siswa** di SMK TELKOM MALANG.<br>
