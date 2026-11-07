@@ -1,13 +1,6 @@
 <p align="center"><code>akirasaskara@github ~ $ neofetch --live</code></p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=akirasaskara&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F190620588%3Fu%3D307bed1da9fe8fd031efc3dbcab2a412bc004cd2%26v%3D4&style=terminal&color=1&v=terminal-portrait-1&mode=light" />
-    <img src="https://www.gitskins.com/api/section/portrait?username=akirasaskara&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F190620588%3Fu%3D307bed1da9fe8fd031efc3dbcab2a412bc004cd2%26v%3D4&style=terminal&color=1&v=terminal-portrait-1&mode=dark" width="680" alt="Akira animated terminal portrait" />
-  </picture>
-</p>
-
-<p align="center">
   <img src="https://www.gitskins.com/api/section/wordmark?username=akirasaskara&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F190620588%3Fu%3D307bed1da9fe8fd031efc3dbcab2a412bc004cd2%26v%3D4&v=showcase-wordmark-2" alt="Akira wordmark visual" />
 </p>
 
