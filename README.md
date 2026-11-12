@@ -1,9 +1,5 @@
 <p align="center"><code>akirasaskara@github ~ $ neofetch --live</code></p>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/wordmark?username=akirasaskara&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F190620588%3Fu%3D307bed1da9fe8fd031efc3dbcab2a412bc004cd2%26v%3D4&v=showcase-wordmark-2" alt="Akira wordmark visual" />
-</p>
-
 <h2 align="center">📌 About Me</h2>
 
 Hi, I'm Akira Saskara Hartono, a Junior Full Stack Developer and Software Engineering student at SMK Telkom Malang. I enjoy building web applications from end to end, turning ideas into products that are functional, scalable, and easy to use.
