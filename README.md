@@ -41,6 +41,8 @@ I'm always open to internship opportunities, collaborative projects, and connect
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" />
+  <img src="https://githubusercontent.com" alt="NestJS" width="48" height="48" />
+  <img src="https://githubusercontent.com" alt="Laravel" width="48" height="48" />
 </p>
 
 <h3 align="center">Database</h3>
