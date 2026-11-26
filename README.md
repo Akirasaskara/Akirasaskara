@@ -1,4 +1,4 @@
-<p align="center"><code>akirasaskara@github ~ $ neofetch --live</code></p>
+<p align="center"><code>akirasaskara@github ~ $ --live</code></p>
 
 <h2 align="center">📌 About Me</h2>
 
@@ -30,6 +30,7 @@ I'm always open to internship opportunities, collaborative projects, and connect
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" />
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" />
+  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" />
